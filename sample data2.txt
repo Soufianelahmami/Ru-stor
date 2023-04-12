@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"advice mod 1","desc":"Ru Stor is a mobile application that aims to revolutionize the way people interact with their digital files and data. Developed by a team of experienced software developers, this app provides a secure,","photo":"https://iili.io/Hvdp914.jpg"},
+  {"title":"tips pack 2","desc":"One of the key features of Ru Stor is its ability to securely store data on cloud servers. Users can upload their files, photos, videos, and documents to the app's servers, where they are encrypted and protected by multiple layers of security protocols. ","photo":"https://iili.io/HvdmZmX.jpg"},
+  {"title":"how to use this app 3","desc":"Ru Stor also provides a range of organizational features that help users keep their data organized and easily accessible. ","photo":"https://iili.io/HvdmQet.jpg"},
+  {"title":"helper mod 4","desc":" For example, the app includes a file manager that allows users to create folders, move files, and rename files. This makes it easy for users to find the files they need quickly and efficiently.","photo":"https://iili.io/HvdmL7I.jpg"},
+  {"title":"advance pack 5","desc":"For instance, the app has a file manager that enables users to rename, move, and create folders for their files. Users can easily and quickly find the files they require as a result.","photo":"https://iili.io/HvdmDIn.jpg"},
+  {"title":"tips mod 6","desc":"Another notable feature of Ru Stor is its ability to share files and collaborate with others. Users can share files and folders with friends, family, and colleagues, and set access permissions for each user","photo":"https://iili.io/HvdmbXs.jpg"},
+  {"title":"advice pack 7","desc":"This makes it easy to collaborate on projects and share important documents without the need for complex email chains or file-sharing services.","photo":"https://iili.io/HvdmmLG.jpg"},
+  {"title":"helper mod 8","desc":This eliminates the need for convoluted email chains or file-sharing services and makes it simple to collaborate on projects and share crucial papers.","photo":"https://iili.io/Hvdp914.jpg"}
 
    ]
  
